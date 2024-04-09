@@ -1,2 +1,0 @@
-# cooking-festival
-Cooking festival
